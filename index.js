@@ -53,7 +53,9 @@ Do the following:
 
    HINT: look up the Number method
 */
-
+let birthYear = '1999';
+let integer = parseInt(birthYear, 10);
+console.log(birthYear)
 
 
 
